@@ -377,7 +377,7 @@ textarea {
   transition-delay: 0, 0.3s;
 }
 .features {
-  margin-top: 115px;
+  padding-top: 115px;
 }
 .features-container {
   display: flex;
